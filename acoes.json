@@ -1,0 +1,25 @@
+
+{
+  "acoes": [
+    {
+      "cod": "MGLU3",
+      "nome": "MAGAZINE LUIZA",
+      "VALOR": 25
+    },
+    {
+      "cod": "BBSE3",
+      "nome": "BB SEGURIDADE",
+      "VALOR": 27
+    },
+    {
+      "cod": "TAEE11",
+      "nome": "TAESA",
+      "VALOR": 37
+    },
+    {
+      "cod": "ABEV3",
+      "nome": "AMBEV",
+      "VALOR": 17
+    }
+]
+}
