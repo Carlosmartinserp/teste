@@ -3,22 +3,22 @@
     {
       "cod": "MGLU3",
       "nome": "MAGAZINE LUIZA",
-      "VALOR": 25
+      "valor": 25
     },
     {
       "cod": "BBSE3",
       "nome": "BB SEGURIDADE",
-      "VALOR": 27
+      "valor": 27
     },
     {
       "cod": "TAEE11",
       "nome": "TAESA",
-      "VALOR": 37
+      "valor": 37
     },
     {
       "cod": "ABEV3",
       "nome": "AMBEV",
-      "VALOR": 17
+      "valor": 17
     }
 ]
 }
