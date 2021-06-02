@@ -1,4 +1,6 @@
-   {
+{
+  "acoes": [
+    {
       "cod": "MGLU3",
       "nome": "MAGAZINE LUIZA",
       "valor": 25
@@ -18,3 +20,5 @@
       "nome": "AMBEV",
       "valor": 17
     }
+]
+}
