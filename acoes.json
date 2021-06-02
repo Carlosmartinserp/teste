@@ -1,5 +1,20 @@
-   {
+    {
+      "cod": "MGLU3",
+      "nome": "MAGAZINE LUIZA",
+      "valor": 25
+    },
+    {
       "cod": "BBSE3",
       "nome": "BB SEGURIDADE",
       "valor": 27
+    },
+    {
+      "cod": "TAEE11",
+      "nome": "TAESA",
+      "valor": 37
+    },
+    {
+      "cod": "ABEV3",
+      "nome": "AMBEV",
+      "valor": 17
     }
